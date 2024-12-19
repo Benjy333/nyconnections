@@ -1,3 +1,0 @@
-document.getElementById("view-results").addEventListener("click", () => {
-    alert("Congratulations! You've completed the Connections Game!");
-});
